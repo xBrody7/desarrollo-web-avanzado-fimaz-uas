@@ -1,4 +1,5 @@
 <?php
+//Alumno Gutierrez Verduzco Jorge Antonio
 namespace App\Config;
 
 use PDO;
